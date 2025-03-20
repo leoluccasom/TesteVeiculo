@@ -105,4 +105,39 @@ nav a:hover{
     background-color: #15133a;
     color: #f3f3f4;
 }
+svg{
+    width: 14px;
+}
+#container-contatos{
+    background-image: linear-gradient(160deg, #155db1, #15133a);
+    padding-bottom: 20px;
+    color: #f3f3f4;
+}
+#contatos{
+    text-align: center;
+    font-size: 28px;
+    margin: 50px;
+    padding: 2px;
+    color: #f3f3f4;
+    padding: 20px 0px 0px 0px;
+}
+.contatos h3 , .contatos h4{
+    text-align: center;
+    margin: 0px 10px;
+    font-size: 16px;
+}
+.contatos h4 {
+    font-size: 22px;
+    margin: 20px 0;
+    color: #f7be16;
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    font-size: 18px;
+    margin: 10px 0px;
+}
+
 
